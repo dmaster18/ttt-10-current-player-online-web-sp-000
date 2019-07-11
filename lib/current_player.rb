@@ -8,5 +8,5 @@ end
 
 def current_player(board_space)
   if board_space % 2 == 0 
-    
+    "X"
   end
