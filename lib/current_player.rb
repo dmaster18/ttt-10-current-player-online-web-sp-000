@@ -12,4 +12,5 @@ def current_player(board_space)
   else
     "O"
   end
+end
     
