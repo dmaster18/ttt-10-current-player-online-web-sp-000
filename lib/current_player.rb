@@ -7,4 +7,4 @@ def turn_count(board)
 end
 
 def current_player(board[board_space])
-  if 
+  if board[board_space]
