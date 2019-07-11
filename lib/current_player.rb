@@ -6,4 +6,4 @@ def turn_count(board)
     end
 end
 
-def current_player(board[board_space], )
+def current_player(board[board_space])
