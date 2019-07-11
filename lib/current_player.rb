@@ -1,3 +1,3 @@
 def turn_count
-  board.each 
+  board.each |board_space|
 end
